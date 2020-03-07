@@ -29,6 +29,7 @@ Because of this, the recipes will be split out into two directories: `flutter_te
 
 - [How do I run a flutter driver test?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_driver/how_do_i_run_a_flutter_driver_test)
 - [How do I find something?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_driver/how_do_i_find_something)
+- [How do I dismiss (i.e. pop) a dialog?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_driver/how_do_i_pop_dialog)
 
 ## External Resources
 
