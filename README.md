@@ -22,6 +22,7 @@ Because of this, the recipes will be split out into two directories: `flutter_te
 ### flutter_test recipes
 
 - [How do I run a flutter test?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_run_a_flutter_test)
+- [How do I find something?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_find_something)
 
 ### flutter_driver recipes
 
