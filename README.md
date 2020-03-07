@@ -23,6 +23,7 @@ Because of this, the recipes will be split out into two directories: `flutter_te
 
 - [How do I run a flutter test?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_run_a_flutter_test)
 - [How do I find something?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_find_something)
+- [What if I need a BuildContext?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/what_if_i_need_build_context)
 
 ### flutter_driver recipes
 
