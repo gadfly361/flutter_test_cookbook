@@ -14,8 +14,8 @@ void main() {
     }
   });
 
-  test("'Hello World' text exists", () async {
-    SerializableFinder helloWorldTextFinder = find.text("Hello World");
+  test("'Hello world' text exists", () async {
+    SerializableFinder helloWorldTextFinder = find.text("Hello world");
 
     await driver.waitFor(helloWorldTextFinder);
   });

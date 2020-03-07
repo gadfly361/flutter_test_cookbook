@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text("Hello World"),
+          child: Text("Hello world"),
         ),
       ),
     );
@@ -95,8 +95,8 @@ void main() {
     }
   });
 
-  test("'Hello World' text exists", () async {
-    SerializableFinder helloWorldTextFinder = find.text("Hello World");
+  test("'Hello world' text exists", () async {
+    SerializableFinder helloWorldTextFinder = find.text("Hello world");
 
     await driver.waitFor(helloWorldTextFinder);
   });
@@ -140,7 +140,7 @@ flutter: Observatory listening on http://127.0.0.1:60787/uPVFLEOkdqo=/
 [trace] FlutterDriver: Attempting to resume isolate
 [trace] FlutterDriver: Waiting for service extension
 [info ] FlutterDriver: Connected to Flutter application.
-00:00 +0: 'Hello World' text exists
+00:00 +0: 'Hello world' text exists
 
 00:00 +1: (tearDownAll)
 
@@ -152,7 +152,8 @@ Stopping application instance.
 ## Output of running `flutter doctor -v`
 
 ```sh
-$ flutter doctor -v[✓] Flutter (Channel stable, v1.12.13+hotfix.5, on Mac OS X 10.15.2
+$ flutter doctor -v
+[✓] Flutter (Channel stable, v1.12.13+hotfix.5, on Mac OS X 10.15.2
     19C57, locale en-US)
     • Flutter version 1.12.13+hotfix.5 at
       /Users/matthew/gadfly/flutter_versions/flutter_1.12.13+hotfix.5
