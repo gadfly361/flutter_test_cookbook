@@ -75,7 +75,7 @@ Each recipe should:
 - have runnable tests
 - only check in 'meaningful' files
 
-Note: if you want to get an early sense of whether or not your recipe will be accepted, please open a new recipe issue first.
+Note: if you want to get an early sense of whether or not your recipe will be accepted, please open a `[recipe-suggestion]` issue first.
 
 ### Want to fix a typo?
 
