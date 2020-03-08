@@ -59,7 +59,7 @@ mkdir test_driver
 cd test_driver
 ```
 
-## 5) Add an `start_app.dart` file.
+## 5) Add a `start_app.dart` file.
 
 Create a `test_driver/start_app.dart` file, and add the following to it:
 
