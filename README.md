@@ -27,6 +27,7 @@ Because of this, the recipes will be split out into two directories: `flutter_te
 - [How do I drag something?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_drag_something)
 - [How do I send a keyboard action like done or next?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_send_a_keyboard_action)
 - [What if I need a BuildContext?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/what_if_i_need_build_context)
+- [How do I test an animation?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_test_an_animation)
 
 ### flutter_driver recipes
 
