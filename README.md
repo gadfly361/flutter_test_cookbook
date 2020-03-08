@@ -38,6 +38,7 @@ Because of this, the recipes will be split out into two directories: `flutter_te
 - [How do I find something?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_driver/how_do_i_find_something)
 - [How do I take a screenshot](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_driver/how_do_i_take_a_screenshot)
 - [How do I dismiss (i.e. pop) a dialog?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_driver/how_do_i_pop_dialog)
+- [How I run multiple test files without restarting app?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_driver/how_do_i_run_multiple_test_files_without_restarting_app)
 
 ## External Resources
 
