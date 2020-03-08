@@ -43,6 +43,7 @@ This section is a list of external resources that may be useful when exploring h
 
 *Written*
 - [Flutter UI Testing (with codemagic)](https://blog.codemagic.io/flutter-ui-testing/)
+- [Mock dependencies using Mockito](https://flutter.dev/docs/cookbook/testing/unit/mocking)
 - [Flutter: Golden tests - compare Widgets with Snapshots](https://medium.com/flutter-community/flutter-golden-tests-compare-widgets-with-snapshots-27f83f266cea)
 - [Testing gestures using Flutter driver](https://medium.com/flutter-community/testing-gestures-using-flutter-driver-b37981c24366)
 - [60 Days of Flutter: Day 4-5: Widget Testing with Flutter](https://medium.com/@adityadroid/60-days-of-flutter-day-4-5-widget-testing-with-flutter-a30236dd04fc)
