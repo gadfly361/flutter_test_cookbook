@@ -39,7 +39,13 @@ This section is a list of external resources that may be useful when exploring h
 
 First of all, thank you. Contributions are encouraged!  Please follow the guidelines below.
 
+### Want to suggest a recipe?
+
+If you'd like to suggest a recipe, please open an issue and add `[recipe-suggestion]` to the beginning of the title.
+
 ### Want to add your own recipe?
+
+If you'd like to add a recipe, please add `[new-recipe]` to the beginning of your PR's title.
 
 Each recipe should:
 
@@ -48,9 +54,7 @@ Each recipe should:
 - have runnable tests
 - only check in 'meaningful' files
 
-### Want to suggest a recipe?
-
-If you'd like to suggest a recipe, please open an issue using the following template.
+Note: if you want to get an early sense of whether or not your recipe will be accepted, please open a new recipe issue first.
 
 ### Want to fix a typo?
 
