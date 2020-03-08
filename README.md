@@ -51,6 +51,7 @@ This section is a list of external resources that may be useful when exploring h
 - [Testing gestures using Flutter driver](https://medium.com/flutter-community/testing-gestures-using-flutter-driver-b37981c24366)
 - [60 Days of Flutter: Day 4-5: Widget Testing with Flutter](https://medium.com/@adityadroid/60-days-of-flutter-day-4-5-widget-testing-with-flutter-a30236dd04fc)
 - [Blazingly Fast Flutter Driver Tests](https://medium.com/flutter-community/blazingly-fast-flutter-driver-tests-5e375c833aa)
+- [Developing and testing accessible apps in Flutter](https://medium.com/flutter-community/developing-and-testing-accessible-app-in-flutter-1dc1d33c7eea)
 
 
 *Videos*
