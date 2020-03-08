@@ -40,6 +40,18 @@ Because of this, the recipes will be split out into two directories: `flutter_te
 
 This section is a list of external resources that may be useful when exploring how to test your flutter application.
 
+*Written*
+- [Flutter UI Testing (with codemagic)](https://blog.codemagic.io/flutter-ui-testing/)
+- [Flutter: Golden tests - compare Widgets with Snapshots](https://medium.com/flutter-community/flutter-golden-tests-compare-widgets-with-snapshots-27f83f266cea)
+- [Testing gestures using Flutter driver](https://medium.com/flutter-community/testing-gestures-using-flutter-driver-b37981c24366)
+- [60 Days of Flutter: Day 4-5: Widget Testing with Flutter](https://medium.com/@adityadroid/60-days-of-flutter-day-4-5-widget-testing-with-flutter-a30236dd04fc)
+- [Blazingly Fast Flutter Driver Tests](https://medium.com/flutter-community/blazingly-fast-flutter-driver-tests-5e375c833aa)
+
+
+*Videos*
+- [Flutter: Deep Dive with Widget Tests and Mockito](https://www.youtube.com/watch?v=75i5VmTI6A0)
+
+
 ## Want to contribute?
 
 First of all, thank you. Contributions are encouraged!  Please follow the guidelines below.
