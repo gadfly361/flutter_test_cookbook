@@ -19,7 +19,7 @@ class MyForm extends StatefulWidget {
 }
 
 class _MyFormState extends State<MyForm> {
-  // We are creating controllers and focus nodes for out two text fields
+  // We are creating controllers and focus nodes for our two text fields
   TextEditingController firstNameController;
   FocusNode firstNameFocusNode;
 
