@@ -52,6 +52,7 @@ This section is a list of external resources that may be useful when exploring h
 
 *Videos*
 - [Flutter: Deep Dive with Widget Tests and Mockito](https://www.youtube.com/watch?v=75i5VmTI6A0)
+- [Bloc Test Tutorial - Easier Way to Test Blocs in Dart & Flutter](https://resocoder.com/2019/11/29/bloc-test-tutorial-easier-way-to-test-blocs-in-dart-flutter/)
 
 
 ## Want to contribute?
