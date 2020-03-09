@@ -29,6 +29,7 @@ Because of this, the recipes will be split out into two directories: `flutter_te
 - [How do I send a keyboard action like done or next?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_send_a_keyboard_action)
 - [How do I test an Exception?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_test_an_exception)
 - [What if I need a BuildContext?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/what_if_i_need_build_context)
+- [How do I run a script inside a test?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_run_a_script)
 - [How do I mock shared_preferences?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_mock_shared_preferences)
 - [How do I test an animation?](https://github.com/gadfly361/flutter_test_cookbook/blob/master/recipes/flutter_test/how_do_i_test_an_animation)
 
